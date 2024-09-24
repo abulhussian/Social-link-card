@@ -1,0 +1,66 @@
+body{
+    font-family: Arial,
+}
+.card-container{
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.content-Container{
+    background: #1F1F1F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px 30px;
+
+
+
+}
+h2{
+    color: #FFFFFF;
+}
+.subhead{
+    color: #ffffff;
+}
+h3{
+    font-size: 14px;
+}
+.name{
+    line-height: 10px;
+}
+h3{
+    color: #C4F82A;
+    font-size: 14px;
+    font-weight:400px;
+
+}
+img{
+    border-radius: 50%;
+    width:5em;
+    height: 5em;
+
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 2px;
+
+}
+button{
+    background-color: #333333;
+    padding: 12px 60px;
+    color: #ffffff;
+    border-radius: 10px;
+
+}
+.buttons button{
+    margin:3px;
+}
+.buttons button:hover{
+    background-color: #b5d84c
+
+}
+
